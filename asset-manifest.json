@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MELATONIN99/react-for-beginners/static/css/main.328570a6.css",
+    "main.js": "/MELATONIN99/react-for-beginners/static/js/main.3f9e6d03.js",
+    "static/js/787.0ba0d192.chunk.js": "/MELATONIN99/react-for-beginners/static/js/787.0ba0d192.chunk.js",
+    "index.html": "/MELATONIN99/react-for-beginners/index.html",
+    "main.328570a6.css.map": "/MELATONIN99/react-for-beginners/static/css/main.328570a6.css.map",
+    "main.3f9e6d03.js.map": "/MELATONIN99/react-for-beginners/static/js/main.3f9e6d03.js.map",
+    "787.0ba0d192.chunk.js.map": "/MELATONIN99/react-for-beginners/static/js/787.0ba0d192.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.328570a6.css",
+    "static/js/main.3f9e6d03.js"
+  ]
+}
